@@ -2,7 +2,7 @@
 ---
 ## Goal:
 ```
-To achieve a linear time of O(log(h)) by
+To achieve a logarithmic time O(log(h)) by
 implementing a special type of Binary Tree
 called a Binary Search Tree
 ```
