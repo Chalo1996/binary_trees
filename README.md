@@ -1,5 +1,6 @@
 # Binary Trees
 ---
+---
 ## Goal:
 ```
 To achieve a logarithmic time O(log(h)) by
