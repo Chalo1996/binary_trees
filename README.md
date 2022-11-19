@@ -32,8 +32,8 @@ Key:
     *left is a pointer to the left subtree of the parent
     *right is a pointer to the right subtree of the parent
 ```
-
+---
 ### Contributor:
 **Emmanuel Chalo**
 
-[email](https://mail.google.com/mail/emusyoka759@gmail.com "email") | Phone: +254708385554
+[email](https://mail.google.com/mail/emusyoka759@gmail.com "email") || Phone: +254708385554
