@@ -5,7 +5,7 @@
 ```
 To achieve a logarithmic time O(log(h)) by
 implementing a special type of Binary Tree
-called a Binary Search Tree
+called a Binary Search Tree.
 ```
 
 ## The structure used:
