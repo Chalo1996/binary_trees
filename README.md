@@ -34,7 +34,6 @@ Key:
     *right is a pointer to the right subtree of the parent
 ```
 ---
----
 ### Contributor:
 **Emmanuel Chalo**
 
