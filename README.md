@@ -38,4 +38,4 @@ Key:
 ### Contributor:
 **Emmanuel Chalo**
 
-[email](https://mail.google.com/mail/emusyoka759@gmail.com "email") ||
+[email](https://mail.google.com/mail/emusyoka759@gmail.com "Email") ||
